@@ -49,7 +49,7 @@ This project is a Java-based client-server chat application that uses **Swing** 
 
 ---
 
-### **Project Structure**
+## **Project Structure**
   
   ```bash
      src/
@@ -60,16 +60,14 @@ This project is a Java-based client-server chat application that uses **Swing** 
 
 ---
 
-### **Demo**
+## **Demo**
 Here’s how the application looks when running:
 
-**Client-Side**
-<img src="[https://example.com/image.png](https://github.com/user-attachments/assets/fdc18ff6-0427-4955-a880-5d80ffe1996a)" alt="Example Image" width="200" height="100"/>
-
-**Server-Side**
-<img src="[https://example.com/image.png](https://github.com/user-attachments/assets/2338ae35-5f51-4b40-8ea3-7aec1ca46f72)" alt="Example Image" width="200" height="100"/>
+| Server-Side                               | Client-Side                               |
+|-------------------------------------------|-------------------------------------------|
+| <img src="https://github.com/user-attachments/assets/fdc18ff6-0427-4955-a880-5d80ffe1996a" alt="Client-Side" width="300" height="500"/> | <img src="https://github.com/user-attachments/assets/2338ae35-5f51-4b40-8ea3-7aec1ca46f72" alt="Server-Side" width="300" height="500"/> |
 
 
-###  **Acknowledgements**
-Developed by [Abhinav Anpan] to explore the fundamentals of Java GUI development and socket programming.
+##  **Acknowledgements**
+Developed by **[ Abhinav Anpan ]** to explore the fundamentals of Java GUI development and socket programming.
 
