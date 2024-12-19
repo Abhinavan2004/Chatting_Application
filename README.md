@@ -56,6 +56,7 @@ This project is a Java-based client-server chat application that uses **Swing** 
       ├── Client.java    // Client-side application
       ├── Server.java    // Server-side application
       └── icons/         // Images used for GUI elements
+```
 
 ---
 
