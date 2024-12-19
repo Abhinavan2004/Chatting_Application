@@ -64,10 +64,11 @@ This project is a Java-based client-server chat application that uses **Swing** 
 Here’s how the application looks when running:
 
 **Client-Side**
-![image](https://github.com/user-attachments/assets/fdc18ff6-0427-4955-a880-5d80ffe1996a)
+<img src="[https://example.com/image.png](https://github.com/user-attachments/assets/fdc18ff6-0427-4955-a880-5d80ffe1996a)" alt="Example Image" width="200" height="100"/>
 
 **Server-Side**
-![image](https://github.com/user-attachments/assets/2338ae35-5f51-4b40-8ea3-7aec1ca46f72)
+<img src="[https://example.com/image.png](https://github.com/user-attachments/assets/2338ae35-5f51-4b40-8ea3-7aec1ca46f72)" alt="Example Image" width="200" height="100"/>
+
 
 ###  **Acknowledgements**
 Developed by [Abhinav Anpan] to explore the fundamentals of Java GUI development and socket programming.
