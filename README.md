@@ -24,7 +24,7 @@ This project is a Java-based client-server chat application that uses **Swing** 
 ## **Technical Stack**
 - **Frontend**: Java Swing and AWT
 - **Backend**: Java Sockets for network communication
-- **IDE**: IntelliJ IDEA / Eclipse
+- **IDE**: Eclipse , VSCode
 - **Protocol**: TCP (Transmission Control Protocol)
 
 ---
